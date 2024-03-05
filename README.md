@@ -26,4 +26,3 @@
 Contributions are welcome! If you have any suggestions or improvements, please open an issue or submit a pull request.
 
 
-<img width="1306" alt="Ekran Resmi 2024-03-05 05 20 46" src="https://github.com/atakanAslan1/Correlation-Calculator-App/assets/107197019/70dd450c-dd36-492c-9e23-dad1c3ec4ca6">
